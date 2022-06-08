@@ -15,7 +15,7 @@ nav ul {
   width: 40%;
   display: flex;
   justify-content: space-around;
-}
+} 
 
 nav ul li {
   display: inline;
