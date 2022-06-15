@@ -14,7 +14,7 @@ roll.addEventListener('click', function(){
      const num =  Math.floor(Math.random() * 6 ) + 1;
      if(num === 1){
      center.classList.add('center','circle')
-      
+     
 }    if(num === 2){
      bottomLeft.classList.add('bottomLeft', 'circle')
      topRight.classList.add('topRight','circle')
